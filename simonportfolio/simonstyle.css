@@ -1,0 +1,159 @@
+html {
+    height: 100%;
+    width: 100%;
+    background-color: #98AFC7;
+  }
+  
+  .name_header {
+    font-size: 2rem;
+    background-color: #F9E4BC;
+    color: #5C573E;
+    margin: 0;
+    text-align: center;
+  }
+  
+  .name_header {
+    position: relative;
+    width: 50%;
+    margin: auto;
+    top: 30px;
+  }
+  
+  .name_header p2 {
+    position: relative;
+    font-size: 1.5rem;
+    bottom: 37px;
+  }
+  
+  #occupation {
+    font-style: italic;
+  }
+  
+  #contacts {
+    font-size: 1rem;
+    margin: auto;
+    text-align: center;
+  }
+  
+  #description {
+    font-size: 1rem;
+    width: 80%;
+    word-wrap: break-word;
+    
+  }
+  
+  .about_me {
+    position: relative;
+    width: 50%;
+    margin: auto;
+    background-color: #F9E4BC;
+    top: 30px;
+  }
+  .name_header hr{
+    position: relative;
+    bottom: 30px;
+  }
+  
+  #education {
+    position: relative;
+    left: 20px;
+  }
+  
+  #inbcs {
+    position: relative;
+    font-size: 1.2rem;
+    left: 20px;
+  }
+  
+  #inbcs_2 {
+    position: relative;
+    left: 20px;
+  }
+  
+  #ciit {
+    position: relative;
+    font-size: 1.2rem;
+    left: 20px;
+  }
+  
+  #ciit_2 {
+    position: relative;
+    left: 20px;
+  }
+  
+  .seminars_2{
+    position: relative;
+    font-size: 1.2rem;
+    left: 20px;
+  }
+  
+  #seminars {
+    position: relative;
+    left: 20px;
+  }
+  
+  #eagle {
+    display: block;
+    width: 90%;
+    word-wrap: break-word;
+  }
+  
+  #future {
+    display: block;
+    width: 90%;
+    word-wrap: break-word;
+  }
+  
+  #right_time {
+    display: block;
+    width: 90%;
+    word-wrap: break-word;
+  }
+  
+  #my_goals {
+    font-size: 1.2rem;
+    position: relative;
+    display: block;
+    width: 90%;
+    word-wrap: break-word;
+    left: 20px;
+  }
+  
+  #future_goals {
+    position: relative;
+    left: 20px;
+  }
+  
+  .hobby {
+    position: relative;
+    left: 20px;
+  }
+  
+  #videogames {
+    font-size: 1.4rem;
+  }
+  
+  #pump_it {
+    font-size: 1.3rem;
+  }
+  
+  #pump {
+    font-size: 1.2rem;
+    width: 90%;
+    word-wrap: break-word;
+  }
+  
+  .pump_desc{
+    font-size:1.2em;
+  }
+  
+  #guitar {
+    font-size: 1.5rem;
+    
+  }
+  
+  #guitarist {
+    font-size: 1.2rem;
+    width: 90%;
+    word-wrap: break-word;
+  }

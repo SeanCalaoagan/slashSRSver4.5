@@ -1,0 +1,38 @@
+
+
+.box{
+    width: 500px;
+    height: 350px;
+    padding: 20px;
+    margin:auto;
+    margin-bottom:20px;
+    border-radius:20px;
+    background-color: #A87C7C;
+    font-size: 125%;
+    
+    transition-duration: 0.5s;
+    
+}
+
+.box:hover {
+    width: 550px;
+    height: 400px;
+    transition-duration: 0.5s;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1{
+    text-align: center;
+    font-size: 400%;
+    color: White;
+}
+
+body{
+    font-family: 'Noto Sans', sans-serif;
+    background-color: #503C3C;
+
+    
+}

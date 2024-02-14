@@ -1,0 +1,27 @@
+
+body {
+    background-repeat: no-repeat;
+  background-image: url("../images/Star.jpg");
+  background-size: 100%;
+}
+
+.text{
+ color: rgba(83, 151, 211, 0.916);
+ font-size: 30px;
+}
+
+.box{
+float:left;
+margin-right: 40px;
+margin-top: -20px;
+font-size: 20px;
+font-family:Lucida Handwriting;
+}
+
+.rightbox{
+    float:right;
+    font-size: 30px;
+    font-family:maLucida Handwritingrydale;
+    color: rgb(27, 210, 216);
+    margin-top: -15px;
+    }

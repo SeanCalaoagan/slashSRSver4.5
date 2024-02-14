@@ -1,0 +1,62 @@
+body{
+    background-image: url(../images/indexbackground.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Kanit', sans-serif;
+}
+
+.regbox{
+    width: 700px;
+    height: 600px;
+    
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #efbac6;
+    opacity: 0.7;
+    text-align: center;
+    padding: 20px;
+    border-radius:20px;
+    font-family: 'Kanit', sans-serif;
+}
+
+.field{
+    width: 600px;
+    height: 50px;
+    border: 0px;
+    border-radius: 20px;
+    margin-top: 10px;
+    padding-left: 10px;
+    font-size: 150%;
+    font-family: 'Kanit', sans-serif;
+}
+
+#register{
+    font-size: 400%;
+}
+
+#button{
+    margin-top: 50px;
+    width: 200px;
+    height: 75px;
+    font-size: 150%;
+    font-family: 'Kanit', sans-serif;
+    font-weight: bold;
+    border: 0px;
+    border-radius: 20px;
+    background-color: 	#ba3c3c;
+    transition-duration: 0.5s;
+
+}
+
+#button:hover{
+    margin-top: 50px;
+    width: 200px;
+    height: 75px;
+    font-size: 150%;
+    border: 0px;
+    border-radius: 20px;
+    background-color: 	#9eb5a8;
+    transition-duration: 0.5s;
+}
