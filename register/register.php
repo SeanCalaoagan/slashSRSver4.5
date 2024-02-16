@@ -71,7 +71,7 @@
             $favcolor = $_POST["color"];
             $favfood = $_POST["food"];
             
-            $sql = "INSERT INTO userdb (username, password, yrlevel, favcolor, favfood)
+            $sql = "INSERT INTO user_tb (username, password, yrlevel, favcolor, favfood)
                       VALUES ('$username', '$password', '$yrlevel', '$favcolor', '$favfood')";
 
             $conn = mysqli_query($conn, $sql);
