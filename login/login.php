@@ -49,7 +49,7 @@
 
         $username = $_POST["username"];
 
-        $sql = "SELECT * FROM userdb WHERE username = '$username'";
+        $sql = "SELECT * FROM user_tb WHERE username = '$username'";
         $result = mysqli_query($conn, $sql);
         
         if(mysqli_num_rows($result) > 0){
