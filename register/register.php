@@ -46,7 +46,7 @@
         $password = password_hash($_POST["password"], PASSWORD_DEFAULT);
 
         // SQL Query
-        $sql = "SELECT * FROM userdb WHERE username = '$username'";
+        $sql = "SELECT * FROM user_tb WHERE username = '$username'";
         $result = mysqli_query($conn, $sql);
 
         // Is every field filled?
