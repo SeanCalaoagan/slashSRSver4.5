@@ -1,5 +1,5 @@
 # slashSRSver3.5
-**- Create userdb database then import userdb.sql**
+**- Create userdb database in phpMyAdmin then import userdb.sql**
 
 Current Features
 - Login and Register
